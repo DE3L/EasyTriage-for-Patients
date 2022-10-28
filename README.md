@@ -1,0 +1,1 @@
+# EasyTriage-for-Patients
